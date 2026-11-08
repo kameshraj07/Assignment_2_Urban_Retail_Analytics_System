@@ -1,4 +1,3 @@
-
 # Assignment 2 – Urban Retail Analytics System
 
 ## Project Overview
@@ -141,9 +140,3 @@ Assignment_2_Urban_Retail_Analytics_System/
 ## Conclusion
 
 The Urban Retail Analytics System demonstrates how Python programming concepts can be applied to retail business operations. This assignment provides practical experience in writing reusable code, organizing Python modules, handling business data, and developing object-oriented applications.
-
----
-
-**Project:** Assignment 2 – Urban Retail Analytics System  
-**Language:** Python  
-**IDE:** Visual Studio Code
